@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 2661,
+      "bodyTextHash": "2fce1f362b2be379cedd228ac6e58da1e3e8f0b7984081363c88e2a24d2b3ac1",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. srl edilizia moderna P.S.C. Edilizia M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rebrand-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 2611,
+      "bodyTextHash": "74e0d6b31f25360638c28dbbb44db4e9fefe8a6415dad819f6493128dd87e0be",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. srl edilizia moderna P.S.C. Edilizia M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rebrand-home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/rebrand-home.json"
+}

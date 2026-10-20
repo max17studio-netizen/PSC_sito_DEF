@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/contatti",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Contatti — P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 1447,
+      "bodyTextHash": "40b51737a4308b7870ffde0c0e1870d1962de3f983e0a5f831cf041446cfb54b",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. srl edilizia moderna P.S.C. Edilizia M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rebrand-contact.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Contatti — P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 1397,
+      "bodyTextHash": "f2d952ad05957f28bf398f326207eea549c73ea799f89b2579e7bc9a03d5670a",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. srl edilizia moderna P.S.C. Edilizia M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rebrand-contact-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/rebrand-contact.json"
+}

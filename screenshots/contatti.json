@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/contatti",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 1391,
+      "bodyTextHash": "c9c08668c276a3fb0738cc8725c3fea3508e34779243d1d66ea54f74b936c15e",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. EDILIZIA MODERNA Home Chi siamo Serviz",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/contatti.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 1341,
+      "bodyTextHash": "12a10353bee36f59d12157859f85b45e177d223816f7e05eb8ab8a9dc93017bb",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. EDILIZIA MODERNA CONTATTI Parliamone i",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/contatti-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/contatti.json"
+}

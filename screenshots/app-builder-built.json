@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 2605,
+      "bodyTextHash": "a33cdbe87b13b13b91c9e98b258f549e74fd81287a2de33eae9ca7d2b47c9faa",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. EDILIZIA MODERNA Home Chi siamo Serviz",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 2555,
+      "bodyTextHash": "8c5d3669707603cc5f1ab575328fd9720eb500d14fc5293c36b08895878293d2",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. EDILIZIA MODERNA LISSONE · MONZA E BRI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

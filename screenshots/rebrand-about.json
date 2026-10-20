@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/chi-siamo",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chi siamo — P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 2357,
+      "bodyTextHash": "b532667e439d0e85baf0bbae0325a4d85f27a35e7dc8dd0d7afe2afcee06f2c7",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. srl edilizia moderna P.S.C. Edilizia M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rebrand-about.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chi siamo — P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 2307,
+      "bodyTextHash": "19986f299283aaef1252c60f0c2fba26076c485ca3ecd973a0df2c7d204859d5",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. srl edilizia moderna P.S.C. Edilizia M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rebrand-about-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/rebrand-about.json"
+}

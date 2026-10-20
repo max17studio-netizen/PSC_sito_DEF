@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/servizi",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 1899,
+      "bodyTextHash": "8d117054f5d341c6ba82ac8ef04bf689442bba86d7f9e381851861665a73d831",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. EDILIZIA MODERNA Home Chi siamo Serviz",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/servizi.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "P.S.C. Edilizia Moderna",
+      "hasCanvas": false,
+      "bodyTextLen": 1849,
+      "bodyTextHash": "039af37d718a9386105200a18ddb7e9c5fe3daaf56d069e34b9fbbfa389615a9",
+      "bodyTextPrefix": "Salta al contenuto P.S.C. EDILIZIA MODERNA SERVIZI Tutto quello ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/servizi-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/servizi.json"
+}
